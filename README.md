@@ -26,3 +26,5 @@ Our vision extends to direct integration with Databricks or your preferred data 
 
 ## How to Use
 Clone the repository, adjust the credentials, and be happy!
+## Example of use
+![Example of use 1](https://github.com/gunnmk/GPT-Data-Assistant-Platform/assets/166954105/cd104719-b4ff-4348-a6bc-ab5e10bebbdc)
